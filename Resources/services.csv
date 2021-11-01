@@ -14,25 +14,25 @@
 12,Anglicare WA,-32.2911493,115.7451855
 13,Anglicare WA,-32.5386734,115.741348
 14,Passages Youth Engagement Hub,-31.94723,115.86768
-15,The Beacon,-31.9503101,115.8662597
-16,Tom Fisher House,-31.9448648,115.8660895
-17,St. Patrick's Community Support Centre,-32.049185,115.7500358
-18,St. Bartholomews House,-31.8831938,116.0147093
-19,Ruah Community Services,-31.9472428,115.8304332
-20,FEEDING AUSTRALIA,-31.9846836,115.9548375
-21,Shelter WA,-31.9537338,115.8684427
-22,St Bartholomew's House Inc,-31.9512214,115.8699421
-23,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
-24,55 Central,-31.9321047,115.8898581
-25,Mission Australia,-32.0517971,115.9823785
-26,Victoria Park Youth Accommodation,-32.0077756,115.9272818
-27,Magical Garden,-32.0502981,115.7550574
-28,Homeless Healthcare,-31.9432824,115.8741489
-29,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
-30,Ruah Community Services,-32.0577655,115.7483778
-31,Ruah Centre,-31.9454902,115.8548813
-32,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
-33,Perth Homeless Support Group Inc.,-31.9126739,115.9197692
+15,Manna Inc,-31.9720217,115.8934817
+16,The Beacon,-31.9503101,115.8662597
+17,Tom Fisher House,-31.9448648,115.8660895
+18,St. Patrick's Community Support Centre,-32.049185,115.7500358
+19,St. Bartholomews House,-31.8831938,116.0147093
+20,Ruah Community Services,-31.9472428,115.8304332
+21,FEEDING AUSTRALIA,-31.9846836,115.9548375
+22,Shelter WA,-31.9537338,115.8684427
+23,St Bartholomew's House,-31.9512214,115.8699421
+24,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
+25,55 Central,-31.9321047,115.8898581
+26,Mission Australia,-32.0517971,115.9823785
+27,Victoria Park Youth Accommodation,-32.0077756,115.9272818
+28,Magical Garden,-32.0502981,115.7550574
+29,Homeless Healthcare,-31.9432824,115.8741489
+30,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
+31,Ruah Community Services,-32.0577655,115.7483778
+32,Ruah Centre,-31.9454902,115.8548813
+33,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
 34,Passages Youth Engagement Hub,-31.94723,115.86768
 35,The Beacon,-31.9503101,115.8662597
 36,Tom Fisher House,-31.9448648,115.8660895
@@ -41,7 +41,7 @@
 39,Ruah Community Services,-31.9472428,115.8304332
 40,FEEDING AUSTRALIA,-31.9846836,115.9548375
 41,Shelter WA,-31.9537338,115.8684427
-42,St Bartholomew's House Inc,-31.9512214,115.8699421
+42,St Bartholomew's House,-31.9512214,115.8699421
 43,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
 44,55 Central,-31.9321047,115.8898581
 45,Mission Australia,-32.0517971,115.9823785
@@ -50,49 +50,49 @@
 48,Homeless Healthcare,-31.9432824,115.8741489
 49,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
 50,Ruah Community Services,-32.0577655,115.7483778
-51,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
-52,Ruah Centre,-31.9454902,115.8548813
+51,Ruah Centre,-31.9454902,115.8548813
+52,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
 53,Perth Homeless Support Group Inc.,-31.9126739,115.9197692
 54,Passages Youth Engagement Hub,-31.94723,115.86768
-55,The Beacon,-31.9503101,115.8662597
+55,Manna Inc,-31.9720217,115.8934817
 56,Tom Fisher House,-31.9448648,115.8660895
-57,St. Patrick's Community Support Centre,-32.049185,115.7500358
-58,St. Bartholomews House,-31.8831938,116.0147093
-59,Ruah Community Services,-31.9472428,115.8304332
-60,FEEDING AUSTRALIA,-31.9846836,115.9548375
-61,Shelter WA,-31.9537338,115.8684427
-62,St Bartholomew's House Inc,-31.9512214,115.8699421
-63,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
-64,55 Central,-31.9321047,115.8898581
-65,Mission Australia,-32.0517971,115.9823785
-66,Victoria Park Youth Accommodation,-32.0077756,115.9272818
-67,Magical Garden,-32.0502981,115.7550574
-68,Homeless Healthcare,-31.9432824,115.8741489
-69,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
-70,Ruah Community Services,-32.0577655,115.7483778
-71,Ruah Centre,-31.9454902,115.8548813
+57,The Beacon,-31.9503101,115.8662597
+58,St. Patrick's Community Support Centre,-32.049185,115.7500358
+59,St. Bartholomews House,-31.8831938,116.0147093
+60,Ruah Community Services,-31.9472428,115.8304332
+61,FEEDING AUSTRALIA,-31.9846836,115.9548375
+62,Shelter WA,-31.9537338,115.8684427
+63,St Bartholomew's House,-31.9512214,115.8699421
+64,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
+65,55 Central,-31.9321047,115.8898581
+66,Mission Australia,-32.0517971,115.9823785
+67,Victoria Park Youth Accommodation,-32.0077756,115.9272818
+68,Magical Garden,-32.0502981,115.7550574
+69,Homeless Healthcare,-31.9432824,115.8741489
+70,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
+71,Ruah Community Services,-32.0577655,115.7483778
 72,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
-73,Perth Homeless Support Group Inc.,-31.9126739,115.9197692
+73,Ruah Centre,-31.9454902,115.8548813
 74,Passages Youth Engagement Hub,-31.94723,115.86768
-75,The Beacon,-31.9503101,115.8662597
+75,Manna Inc,-31.9720217,115.8934817
 76,Tom Fisher House,-31.9448648,115.8660895
-77,St. Patrick's Community Support Centre,-32.049185,115.7500358
-78,St. Bartholomews House,-31.8831938,116.0147093
-79,Ruah Community Services,-31.9472428,115.8304332
-80,FEEDING AUSTRALIA,-31.9846836,115.9548375
-81,Shelter WA,-31.9537338,115.8684427
-82,St Bartholomew's House Inc,-31.9512214,115.8699421
-83,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
-84,55 Central,-31.9321047,115.8898581
-85,Mission Australia,-32.0517971,115.9823785
-86,Victoria Park Youth Accommodation,-32.0077756,115.9272818
-87,Magical Garden,-32.0502981,115.7550574
-88,Homeless Healthcare,-31.9432824,115.8741489
-89,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
-90,Ruah Community Services,-32.0577655,115.7483778
-91,Ruah Centre,-31.9454902,115.8548813
+77,The Beacon,-31.9503101,115.8662597
+78,St. Patrick's Community Support Centre,-32.049185,115.7500358
+79,St. Bartholomews House,-31.8831938,116.0147093
+80,Ruah Community Services,-31.9472428,115.8304332
+81,FEEDING AUSTRALIA,-31.9846836,115.9548375
+82,Shelter WA,-31.9537338,115.8684427
+83,St Bartholomew's House,-31.9512214,115.8699421
+84,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
+85,55 Central,-31.9321047,115.8898581
+86,Mission Australia,-32.0517971,115.9823785
+87,Victoria Park Youth Accommodation,-32.0077756,115.9272818
+88,Magical Garden,-32.0502981,115.7550574
+89,Homeless Healthcare,-31.9432824,115.8741489
+90,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
+91,Ruah Community Services,-32.0577655,115.7483778
 92,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
-93,Perth Homeless Support Group Inc.,-31.9126739,115.9197692
+93,Ruah Centre,-31.9454902,115.8548813
 94,Passages Youth Engagement Hub,-31.94723,115.86768
 95,Manna Inc,-31.9720217,115.8934817
 96,The Beacon,-31.9503101,115.8662597
@@ -102,7 +102,7 @@
 100,Ruah Community Services,-31.9472428,115.8304332
 101,FEEDING AUSTRALIA,-31.9846836,115.9548375
 102,Shelter WA,-31.9537338,115.8684427
-103,St Bartholomew's House Inc,-31.9512214,115.8699421
+103,St Bartholomew's House,-31.9512214,115.8699421
 104,Boorloo Bidee Mia (Perth Pathway to Housing),-31.9528001,115.8641297
 105,55 Central,-31.9321047,115.8898581
 106,Mission Australia,-32.0517971,115.9823785
@@ -111,5 +111,5 @@
 109,Homeless Healthcare,-31.9432824,115.8741489
 110,Mission Australia Drug and Alcohol Youth Service,-31.953638,115.8700804
 111,Ruah Community Services,-32.0577655,115.7483778
-112,Ruah Centre,-31.9454902,115.8548813
-113,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
+112,Multicultural Services Centre of Western Australia,-31.8734416,115.8635451
+113,Ruah Centre,-31.9454902,115.8548813
